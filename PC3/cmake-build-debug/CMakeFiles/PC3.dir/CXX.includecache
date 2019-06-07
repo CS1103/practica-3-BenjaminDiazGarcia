@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/benjamindiaz/CLionProjects/PC3/main.cpp
+iostream
+-
+deque
+-
+stdlib.h
+-
+time.h
+-
+stl deque.h
+/Users/benjamindiaz/CLionProjects/PC3/stl deque.h
+matriz.h
+/Users/benjamindiaz/CLionProjects/PC3/matriz.h
+stl map.h
+/Users/benjamindiaz/CLionProjects/PC3/stl map.h
+
+/Users/benjamindiaz/CLionProjects/PC3/matriz.h
+iostream
+-
+
+/Users/benjamindiaz/CLionProjects/PC3/stl deque.h
+deque
+-
+vector
+-
+iostream
+-
+
+/Users/benjamindiaz/CLionProjects/PC3/stl map.h
+map
+-
+iostream
+-
+
